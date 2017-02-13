@@ -36,11 +36,11 @@ Create the required services:
 
 Clone this repository locally:
 
-`git clone <>`
+`git clone https://github.com/mzuliani-ibm/node-red-bluemix-starter`
 
 Push the app to Bluemix:
 
-`cf push`
+`cf push <your app name>`
 
 ### Customising Node-RED
 
