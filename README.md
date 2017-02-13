@@ -29,13 +29,17 @@ Node-RED runs.
 Install all the required CLI tools: Bluemix, cf, git, etc.
 
 Create the required services:
+
 `cf create-service cloudantNoSQLDB Lite iotp-starter-cloudantNoSQLDB`
+
 `cf create-service iotf-service iotf-service-free iotp-starter`
 
 Clone this repository locally:
+
 `git clone <>`
 
 Push the app to Bluemix:
+
 `cf push`
 
 ### Customising Node-RED
