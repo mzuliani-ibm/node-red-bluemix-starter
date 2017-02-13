@@ -1,0 +1,2 @@
+iotf-service                          iotf-service-free, iotf-service-standard*, iotf-service-asp*
+cloudantNoSQLDB                       Lite, Standard* 
